@@ -1,0 +1,14 @@
+body{
+    background-color: aquamarine;
+}
+hr{
+    border-style: none;
+    border-width: 0;
+    border-top-width: 10px;
+    border-style: dotted;
+    width: 70%;
+    color:antiquewhite;
+}
+a:hover{
+    color:brown;
+}
